@@ -1,17 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3e21e68-ddb5-4e3e-be50-0d07eb8e688b" name="Changes" comment="" />
+    <list default="true" id="b3e21e68-ddb5-4e3e-be50-0d07eb8e688b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/L1_10/L7/Abstract/AB_Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L1_10/L7/Abstract/AB_Super.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L1_10/L7/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L1_10/L7/Modificators/Synchronized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L1_10/L7/Operators/Ternary_operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L1_10/L7/dataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2LNOdydtM8JqlwKfkuRRM1kA7yG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,9 +40,52 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Ternary_operator">
+    <configuration name="Ternary_operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L1_10.L7.Operators.Ternary_operator" />
+      <module name="prolang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L1_10.L7.Operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L1_10.L7.dataTypes" />
+      <module name="prolang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L1_10.L7.Abstract.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="prolang" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ternary_operator" />
+        <item itemvalue="Application.L1_10.L7.dataTypes" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,7 +94,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675708164831</updated>
+      <workItem from="1675708166135" duration="181000" />
+      <workItem from="1676195017128" duration="228000" />
+      <workItem from="1676195372005" duration="69000" />
+      <workItem from="1676225576321" duration="1261000" />
+      <workItem from="1676319471371" duration="9000" />
+      <workItem from="1676481111348" duration="1043000" />
+      <workItem from="1676482617110" duration="1824000" />
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
